@@ -3,3 +3,6 @@ This is an Android application that uses BiometricPromt Authentication before ac
 
 # Add the following dependency in your gradle.build (app) file
 implementation 'androidx.biometric:biometric:1.0.0'
+
+# Language Used
+Kotlin
